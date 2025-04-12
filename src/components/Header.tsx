@@ -36,7 +36,7 @@ const Header = () => {
           className="text-2xl font-bold text-foreground hover:text-primary transition-colors"
         >
           <span className="text-teal">{'<'}</span>
-          Dev
+          Ronald Barrera
           <span className="text-teal">{'/>'}</span>
         </Link>
 

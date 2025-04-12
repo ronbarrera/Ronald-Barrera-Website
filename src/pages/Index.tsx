@@ -11,7 +11,7 @@ import Contact from '@/components/sections/Contact';
 
 const Index = () => {
   useEffect(() => {
-    document.title = 'John Doe | Developer Portfolio';
+    document.title = 'Ronald Barrera | Developer Portfolio';
   }, []);
 
   return (

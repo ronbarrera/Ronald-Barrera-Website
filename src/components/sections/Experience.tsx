@@ -11,47 +11,22 @@ interface Job {
 const Experience = () => {
   const jobs: Job[] = [
     {
-      company: 'Google',
-      title: 'Senior Frontend Developer',
-      range: 'January 2022 - Present',
-      duties: [
-        'Developed and maintained critical infrastructure for Google Photos, reducing load times by 40%',
-        'Led a team of 5 engineers, implementing agile methodologies and improving sprint velocity by 25%',
-        'Architected and implemented a new component library used across multiple Google products',
-        'Collaborated with UX designers to implement responsive designs, ensuring accessibility compliance'
-      ]
-    },
-    {
       company: 'Uber',
-      title: 'Frontend Engineer',
-      range: 'January 2021 - December 2021',
+      title: 'Software Engineer II',
+      range: 'July 2022 - Present',
       duties: [
-        'Improved the rider experience by optimizing the checkout flow, increasing conversion rates by 15%',
-        'Built reusable UI components for the driver app, reducing development time for new features',
-        'Collaborated with backend teams to integrate APIs and improve real-time data synchronization',
-        'Participated in user testing sessions to gather feedback and iterate on designs'
+        "Led the design and development of high-impact features for Uber’s Android apps using Java and Kotlin.",
+        'Collaborate cross-functionally with QA engineers, product managers, designers, and data scientists to deliver high-quality, user-centric solutions.',
+        'Write clean, maintainable, and self-documenting code that promotes readability and ease of collaboration.'
       ]
     },
     {
-      company: 'Facebook',
-      title: 'Frontend Developer',
-      range: 'July 2020 - December 2021',
+      company: 'Ampula Inc.',
+      title: 'Software Engineer',
+      range: 'December 2020 - June 2022',
       duties: [
-        "Built and shipped new features for Facebook's news feed, impacting millions of daily users",
-        'Improved application performance by implementing code splitting and lazy loading techniques',
-        'Participated in code reviews and mentored junior developers',
-        'Collaborated with the data science team to implement A/B testing framework for new features'
-      ]
-    },
-    {
-      company: 'Startup Inc',
-      title: 'Full Stack Developer',
-      range: 'May 2018 - June 2020',
-      duties: [
-        "Developed and maintained the company's flagship SaaS product from scratch",
-        'Implemented authentication and authorization systems using OAuth and JWT',
-        'Designed and built RESTful APIs used by web and mobile applications',
-        'Deployed and maintained applications using Docker and AWS services'
+        "Developed the primary Android application using modern Android technologies such as MVVM architecture, LiveData, Navigation Component, Retrofit, Hilt for dependency injection, and WebRTC for real-time communication.",
+        'Managed the end-to-end setup and successful release of the Ampoza app on the Google Play Store.'
       ]
     }
   ];

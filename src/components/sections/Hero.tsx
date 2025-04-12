@@ -9,14 +9,13 @@ const Hero = () => {
       <div className="max-w-4xl animate-fade-in">
         <p className="text-teal font-mono mb-5">Hi, my name is</p>
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-4 text-foreground">
-          John Doe.
+          Ronald Barrera.
         </h1>
         <h2 className="text-3xl md:text-5xl lg:text-6xl font-bold mb-6 text-slate">
-          I build things for the web.
+          I build things for the Android.
         </h2>
         <p className="text-slate text-lg md:text-xl max-w-xl mb-8">
-          I'm a software developer specializing in building exceptional digital experiences. 
-          Currently, I'm focused on building accessible, human-centered products.
+        I'm an Android engineer passionate about crafting seamless, high-quality mobile experiences. Right now, I'm focused on developing accessible, user-centered apps that make a meaningful impact.
         </p>
         <Button 
           className="bg-transparent hover:bg-teal/10 text-teal border border-teal px-7 py-5 rounded"

@@ -5,9 +5,7 @@ import { Check } from 'lucide-react';
 
 const About = () => {
   const skills = [
-    'JavaScript (ES6+)', 'TypeScript', 'React', 'Next.js',
-    'Node.js', 'Express', 'GraphQL', 'MongoDB',
-    'PostgreSQL', 'Tailwind CSS', 'AWS', 'Git/GitHub',
+    'Java', "Kotlin", 'TypeScript', 'React', 'Git/GitHub',
   ];
 
   return (
@@ -21,13 +19,13 @@ const About = () => {
           <div className="lg:col-span-3 animate-fade-in">
             <div className="prose prose-lg max-w-none">
               <p className="text-lg text-slate mb-4">
-                Hello! I'm John, a software developer based in San Francisco, CA. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+                Hello! I'm Ronald, a software developer based in San Francisco, CA. I enjoy creating things that live on an Android device. My goal is to always build products that provide pixel-perfect, performant experiences.
               </p>
               <p className="text-lg text-slate mb-4">
-                I graduated from the University of California in 2020 with a degree in Computer Science and have been working in the industry since then. I've had the privilege of working at a <a href="#" className="text-teal hover:underline">start-up</a>, <a href="#" className="text-teal hover:underline">a huge corporation</a>, and <a href="#" className="text-teal hover:underline">a tech agency</a>.
+              I graduated from San Francisco State University in 2018 with a bachelor's degree in Computer Science and a minor in Mathematics. I have been working in the industry since then. I've had the privilege of working at a <a href="https://www.ampoza.com/" className="text-teal hover:underline">start-up</a>, and <a href="https://www.uber.com/us/en/about/" className="text-teal hover:underline">a huge tech company corporation</a>.
               </p>
               <p className="text-lg text-slate">
-                When I'm not at the computer, I'm usually rock climbing, hanging out with my dog, or exploring new hiking trails.
+                When I'm not at the computer, I'm usually travelling exploring new places, hanging out with family and friends. 
               </p>
             </div>
           </div>
